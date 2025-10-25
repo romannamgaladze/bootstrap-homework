@@ -1,0 +1,39 @@
+.col-sm-8 {
+  border-bottom-width: 2px;
+  border-bottom-style: solid;
+  border-bottom-color: #f5f5f5;
+}
+.card-mountains {
+  display: flex;
+  justify-content: space-between;
+  gap: 20px;
+  padding: 20px 40px;
+}
+.information-mountains {
+  padding: 20px 0;
+}
+p {
+  font-size: 10.24px;
+  font-style: 400;
+}
+span {
+  color: #918e9b;
+  text-decoration: underline;
+}
+.para-date {
+  font-weight: 700;
+}
+.header-div {
+  background-color: #f55a5a;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 10px;
+  padding: 16px 0;
+}
+.header-span {
+  font-size: 15px;
+  font-weight: 500;
+  color: #ffffff;
+  text-decoration: none;
+}
